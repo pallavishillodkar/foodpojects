@@ -1,0 +1,35 @@
+.home-card {
+    margin-top: 10px;
+    /* display: flex; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    margin-bottom: 30px;
+    margin-bottom: 20px;
+}
+.home-image {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.home-h6 {
+    /* display: flex; */
+    margin-left: 10px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    /* margin-top: 10px; */
+    color: rgb(220, 20, 20);
+
+}
+
+.home-cart{
+    background-color: rgb(57, 209, 209);
+    font-weight: 500;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 10px;
+}
+.home-card:hover{
+    background-color:mistyrose;
+    cursor: pointer;
+    transform: scale(1.1, 1.1);
+}

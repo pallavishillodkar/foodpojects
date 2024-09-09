@@ -1,0 +1,87 @@
+.main-container{
+    /* position: fixed; */
+    /* background-image: url(../image/food.webp); */
+    /* background-image: url(../image/background\img.jpg); */
+    background-color: darkkhaki;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+.Registerd-Container {
+    display: flex;
+    /* height: 10vh; */
+    /* width: 100vw; */
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+    /* margin-top: 15px; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+
+.Registerd-form-Container {
+    display: flex;
+    height: 20%;
+    width: 30%;
+}
+
+.RegisterdForm {
+    height: 80vh;
+    width: 700px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* background-color: #C38EB4; */
+    background-color: darkgray;
+    padding: 30px;
+    border-radius: 100px;
+    margin-top: 40px;
+ 
+}
+
+.Registerd-Container input {
+    /* width: 60; */
+    border: 3px solid brown;
+    border-radius: 30px;
+    font-size: larger;
+    padding-left: 30px;
+}
+.image-Container-img{
+    height: 70vh;
+    width: 50vw;
+    display: flex;
+    align-items: end;
+
+}
+
+.btn1 {
+    background-color: orange;
+    color: black;
+    padding: 10px;
+    border-radius: 30px;
+    gap: 20px;
+    font-weight: 500;
+}
+
+.btnbox {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 10px;
+    font-weight: 900;
+    margin-right: 40%;
+}
+
+.btn1:hover {
+    background-color: skyblue;
+    color:orangered;
+    cursor: pointer;
+}
+.group{
+    text-align: center;
+}
+.label{
+    margin:20px 0 15px 0;
+}

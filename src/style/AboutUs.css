@@ -1,0 +1,92 @@
+.about-carousel{
+    height: 90vh;
+    width: 90vw;
+}
+.carousel-item{
+    /* display: flex; */
+    padding-top: 40px;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.caption{
+     /* margin-right: 50px;
+     margin-right: 100px;  */
+}
+.about{
+    background-color: darkcyan;
+}
+.img1{
+    height: 70vh;
+    width: 70vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+    /* background-image: cover; */
+    /* object-fit: cover; */
+}
+.img2{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.img3{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.img4{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.img5{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.img6{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+    object-fit: cover;
+}
+.img7{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.img8{
+    height: 70vh;
+    width: 70vw; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+    padding-top: 20px;
+}
